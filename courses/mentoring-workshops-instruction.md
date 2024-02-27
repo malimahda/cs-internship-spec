@@ -3,7 +3,7 @@
 - One of the main learning paths in the **CS Internship** program is the **Business Skills Learning Path**, also known as **Soft Skills Learning Path**.
 - The goal of the **Business Skills Learning Path** is to acquire a set of skills alongside technical expertise, which can transform any workforce into an impactful and influential presence in the business environment. By developing these soft skills, individuals can become **influential contributors within the business space**, complementing their technical abilities with *effective communication, problem-solving, leadership, and other valuable competencies*.
 - **Mentorship workshops** are typically organized by professionals who have expertise in the workshop's subject area. These workshops are initially conducted with the participation of individuals who meet the eligibility criteria at the time of workshop formation.
-- These skill in this program is achieved through organizing a series of workshops, each designed with a specific goal to acquire soft skills. These workshops are **tailored to CS Internship participants** help them develop and enhance their soft skills effectively.
+- These skills in this program are achieved through organizing a series of workshops, each designed with a specific goal to acquire soft skills. These workshops are **tailored for CS Internship participants** to help them develop and enhance their soft skills effectively.
 - The sessions of the first series are recorded and made available to individuals who join this path later. If you are reading this page, it means you are going to watch the workshop videos.
 
 ## What prerequisits you should have?
@@ -14,7 +14,7 @@ In each step's file, there is a section called **"Mentors Training"**. This sect
 - Thirdly, you have to ask your mentoring intern to send you the report template to wirte your reports about the videos.
   
 ## How to watch videos? 
-- In the mentoring training path, you should watch the videos provided in your step's file. What you should do in this part could simply abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**
+- In the mentoring training path, you should watch the videos provided in your step's file. What you should do in this part could simply be abbreviated into four main sequential tasks: **Watch**, **Think**, **Write** and **Talk**
   1. **Watch** the specified video. Watch it deeply! Make sure you have settled a proper environment and situation to watch it. In this way, you can have the highest of your focus on it.
   2. **Think** about the discussed concepts in this video in your daily attitudes. Your task is to observe and find the concepts you heard in the video in your daily life. 
   3. **Write** a report about what you understood from this video. In this report you should:
@@ -42,8 +42,8 @@ In each step's file, there is a section called **"Mentors Training"**. This sect
        	- There is no guaranty that mentors will have time to check the report in the current sprint.
        	- So, it is almost 50-50 to get a chance to participate in a workshop for two reports.
 5. The mentor will set a deadline to say their assessment result about your report to your mentoring intern.
-	- **Positive** assessment result, means then you can start to watch the next video, wirte its report and send it to your mentoring inter before the setteled mentorship workshop. 
-	- **Negative** assessment result, means that you have to attend in separate workshops for each mentorship videos. It helps the concepts proposed in the videos to be more clarify for you. 
+	- **Positive** assessment result, means then you can start to watch the next video, wirte its report and send it to your mentoring intern before the settled mentorship workshop. 
+	- **Negative** assessment result, means that you have to attend in separate workshops for each mentorship videos. It helps the concepts proposed in the videos to be more clarified for you. 
 
 #### **Important Note:** 
-- Please keep in mind that mentor availability to review your reports is not guaranteed. Furthermore, the deadline for reviewing your reports may be set in a way that it doesn't affect the scheduling of mentorship sessions to be held sooner.
+- Please keep in mind that availability of a mentor to review your reports is not guaranteed. Furthermore, the deadline for reviewing your reports may be set in a way that it doesn't affect the scheduling of mentorship sessions to be held sooner.
