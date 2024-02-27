@@ -3,7 +3,7 @@
 - One of the main learning paths in the **CS Internship** program is the **Business Skills Learning Path**, also known as **Soft Skills Learning Path**.
 - The goal of the **Business Skills Learning Path** is to acquire a set of skills alongside technical expertise, which can transform any workforce into an impactful and influential presence in the business environment. By developing these soft skills, individuals can become **influential contributors within the business space**, complementing their technical abilities with *effective communication, problem-solving, leadership, and other valuable competencies*.
 - **Mentorship workshops** are typically organized by professionals who have expertise in the workshop's subject area. These workshops are initially conducted with the participation of individuals who meet the eligibility criteria at the time of workshop formation.
-- These skill in this program is achieved through organizing a series of workshops, each designed with a specific goal to acquire soft skills. These workshops are **tailored to CS Internship participants** help them develop and enhance their soft skills effectively.
+- These skills in this program are achieved through organizing a series of workshops, each designed with a specific goal to acquire soft skills. These workshops are **tailored for CS Internship participants** to help them develop and enhance their soft skills effectively.
 - The sessions of the first series are recorded and made available to individuals who join this path later. If you are reading this page, it means you are going to watch the workshop videos.
 
 ## What prerequisits you should have?
